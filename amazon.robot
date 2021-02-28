@@ -10,4 +10,4 @@ ${START_URL} =    https://konsulta.md/
 User must sign in to check out
     [Documentation]    Present some information about this test case
     open browser    ${START_URL}   chrome
-    location should be  https://konsulta.md/helloworld7
+    location should be  https://konsulta.md/helloworld8
